@@ -1,0 +1,24 @@
+{
+  "name": "questions-client",
+  "version": "1.0.0",
+  "description": "client side of questions proj",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andhop/questions-client.git"
+  },
+  "keywords": [
+    "questions",
+    "support",
+    "suggestions"
+  ],
+  "author": "Andy Hopwood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andhop/questions-client/issues"
+  },
+  "homepage": "https://github.com/andhop/questions-client#readme"
+}
